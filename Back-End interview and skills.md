@@ -1,0 +1,13 @@
+- [x] [[REST api]]
+- [x] [[SOLID]] 
+- [x] [[ACID]] 
+- [ ] [[Data base]]
+- [ ] [[Dijkstra]]'s algorithm
+- [ ] [[OOP]]
+- [x] [[Clean code]]
+- [ ] [[Soft Skill]]
+- [ ] [[Data structure]] especially map, list, stack
+- [ ] [[java]]
+- [ ] [[kotlin]] fundementals
+- اگه پرسیدن یه چیزی رو که بلد نبودی بگو: تا حالا به این مورد برنخوردم میرم می‌گردم یاد می‌گیرمش.
+- [ ] design patters

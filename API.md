@@ -1,0 +1,5 @@
+- Application Programming Interface. 
+- Developers use APIs to make their applications talk to each other.
+- Interface defines exactly how they can communicate.
+- An API is a set of **rules, protocols, and tools** that allows different software applications to talk to each other. It defines the kinds of requests that can be made, how to make them, the data formats to use, and the conventions to follow.
+- The API acts as the messenger that takes your app's request, delivers it to the system that could fulfill it, and then brings the response back.

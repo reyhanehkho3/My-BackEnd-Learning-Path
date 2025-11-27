@@ -1,0 +1,1 @@
+Instead of building the entire product all at once based on a fixed plan, Agile breaks the project into small, manageable pieces called **iterations** or **sprints**. Each iteration (typically 1-4 weeks) results in a small, working piece of the final product. After each iteration, the team reflects, gathers feedback, and adapts the plan for the next one.
