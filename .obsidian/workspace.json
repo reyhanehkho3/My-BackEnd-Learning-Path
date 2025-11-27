@@ -27,12 +27,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "SOLID.md",
+                "file": "Back-End interview and skills.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "SOLID"
+              "title": "Back-End interview and skills"
             }
           },
           {
@@ -236,12 +236,12 @@
   },
   "active": "83e3b2feb884b497",
   "lastOpenFiles": [
+    "SOLID.md",
     "Back-End interview and skills.md",
     "Template.md",
     "ACID.md",
     "MySQL.md",
     "API.md",
-    "SOLID.md",
     "REST API.md",
     "Pasted image 20251120230644.png",
     "Kotlin.md",

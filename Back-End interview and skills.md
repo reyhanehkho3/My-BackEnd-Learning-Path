@@ -9,5 +9,10 @@
 - [ ] [[Data structure]] especially map, list, stack
 - [ ] [[java]]
 - [ ] [[kotlin]] fundementals
-- اگه پرسیدن یه چیزی رو که بلد نبودی بگو: تا حالا به این مورد برنخوردم میرم می‌گردم یاد می‌گیرمش.
-- [ ] design patters
+- [ ] [[design patters]]
+
+
+
+
+## Notes
+It they asked you about a subject that you didn't know, tell them I haven't encountered it yet, I'll go and learn about it.
