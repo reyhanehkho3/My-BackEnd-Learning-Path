@@ -1,3 +1,4 @@
+tags: [[API]]
 - REpresentational State Transfer
 -  An **architectural style** for designing networked applications. A **REST API** (or RESTful API) is an [API] that conforms to the constraints of the REST architecture.
 -  **HTTP** as its protocol.    
