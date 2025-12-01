@@ -16,15 +16,15 @@ Encapsulation is defined as the wrapping up of data under a single unit. It is t
 
 
 ### Inheritene
-
-
+The capability of a class to derive properties and characteristics from another class is called Inheritance.
+ Inheritance allows the user to reuse the code whenever possible and reduce its redundancy.
 
 ### Polymorphism
-
+- having many forms. 
+- we can define polymorphism as the ability of a message to be displayed in more than one form.
 
 
 
 # Source
-
-
+https://www.geeksforgeeks.org/dsa/introduction-of-object-oriented-programming/
 

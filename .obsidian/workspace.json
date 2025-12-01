@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Clean Code.md",
+                "file": "OOP.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Clean Code"
+              "title": "OOP"
             }
           },
           {
@@ -235,17 +235,17 @@
   },
   "active": "5763429ac3fe1b61",
   "lastOpenFiles": [
+    "REST API.md",
+    "Clean Code.md",
     "MySQL.md",
     "Pasted image 20251120230644.png",
     "Template.md",
     "Untitled.canvas",
-    "Clean Code.md",
     "Kotlin.md",
     "Back-End interview and skills.md",
     "SOLID.md",
     "ACID.md",
     "API.md",
-    "REST API.md",
     "OOP.md",
     "Back_End Skills.md",
     "Untitled",
