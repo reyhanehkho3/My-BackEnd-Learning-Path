@@ -5,7 +5,7 @@
 - [ ] [[Dijkstra]]'s algorithm
 - [x] [[OOP]]
 - [x] [[Clean code]]
-- [ ] [[Soft Skill]]
+- [x] [[Soft Skill]]
 - [ ] [[Data structure]] especially map, list, stack
 - [ ] [[java]]
 - [ ] [[kotlin]] fundementals

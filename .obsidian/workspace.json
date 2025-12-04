@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Soft Skill.md",
+                "file": "Back-End interview and skills.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Soft Skill"
+              "title": "Back-End interview and skills"
             }
           },
           {
@@ -236,8 +236,8 @@
   },
   "active": "5763429ac3fe1b61",
   "lastOpenFiles": [
-    "Back-End interview and skills.md",
     "Soft Skill.md",
+    "Back-End interview and skills.md",
     "OOP.md",
     "REST API.md",
     "Clean Code.md",
