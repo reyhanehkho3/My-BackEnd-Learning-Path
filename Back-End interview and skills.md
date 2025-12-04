@@ -3,7 +3,7 @@
 - [x] [[ACID]] 
 - [ ] [[Data base]]
 - [ ] [[Dijkstra]]'s algorithm
-- [ ] [[OOP]]
+- [x] [[OOP]]
 - [x] [[Clean code]]
 - [ ] [[Soft Skill]]
 - [ ] [[Data structure]] especially map, list, stack

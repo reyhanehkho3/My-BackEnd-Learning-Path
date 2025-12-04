@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "OOP.md",
+                "file": "Soft Skill.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "OOP"
+              "title": "Soft Skill"
             }
           },
           {
@@ -182,16 +182,17 @@
             "state": {
               "type": "outline",
               "state": {
+                "file": "Soft Skill.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline"
+              "title": "Outline of Soft Skill"
             }
           },
           {
-            "id": "3f12264c3d187329",
+            "id": "5929e573942fd2ab",
             "type": "leaf",
             "state": {
               "type": "calendar",
@@ -201,7 +202,7 @@
             }
           },
           {
-            "id": "76ac02f6ee72e10a",
+            "id": "d5531191c1d3ab8a",
             "type": "leaf",
             "state": {
               "type": "git-view",
@@ -223,18 +224,21 @@
       "audio-recorder:Start/stop recording": false,
       "workspaces:Manage workspace layouts": false,
       "publish:Publish changes...": false,
-      "obsidian-git:Open Git source control": false,
       "switcher:Open quick switcher": false,
       "graph:Open graph view": false,
       "canvas:Create new canvas": false,
       "daily-notes:Open today's daily note": false,
       "templates:Insert template": false,
       "command-palette:Open command palette": false,
-      "bases:Create new base": false
+      "bases:Create new base": false,
+      "obsidian-git:Open Git source control": false
     }
   },
   "active": "5763429ac3fe1b61",
   "lastOpenFiles": [
+    "Back-End interview and skills.md",
+    "Soft Skill.md",
+    "OOP.md",
     "REST API.md",
     "Clean Code.md",
     "MySQL.md",
@@ -242,11 +246,9 @@
     "Template.md",
     "Untitled.canvas",
     "Kotlin.md",
-    "Back-End interview and skills.md",
     "SOLID.md",
     "ACID.md",
     "API.md",
-    "OOP.md",
     "Back_End Skills.md",
     "Untitled",
     "Agile.md",
